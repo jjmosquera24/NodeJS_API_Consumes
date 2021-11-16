@@ -1,0 +1,5 @@
+ctrl+ñ: Se abre la consola.
+nodemon = Asistente que cada vez que yo haga un cambio se refleje inmediatamente.
+cls = limpia la consola.
+node-fetch = Dependencia para consumir un API... Conectarse a una URL de un servidor remoto y poderlo consumir.
+
